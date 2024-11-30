@@ -77,8 +77,6 @@ To configure the **Base URL** for the API (which can be different depending on t
 ```js
 const BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://localhost:3002";
 ```
-Business Dashboard Project
-==========================
 
 Setting up the Mock API
 -----------------------
@@ -170,7 +168,7 @@ How to Run the Project
 
 Start by cloning the repository to your local machine. Run the following command in your terminal:
 
-    git clone https://github.com/your-username/business-dashboard.git
+    git clone https://github.com/andrewmatara/business-dashboard.git
     cd business-dashboard
 
 ### 2\. Install Dependencies
