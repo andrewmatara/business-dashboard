@@ -97,14 +97,14 @@ In the root of your project (or in a suitable directory), create a file named `d
             {
                 "date": "2024-11-01",
                 "transactionId": "1234",
-                "amount": "$500",
+                "amount": "KSH500",
                 "type": "Sale",
                 "status": "Completed"
             },
             {
                 "date": "2024-11-02",
                 "transactionId": "1235",
-                "amount": "$300",
+                "amount": "KSH300",
                 "type": "Expense",
                 "status": "Pending"
             }
@@ -113,9 +113,9 @@ In the root of your project (or in a suitable directory), create a file named `d
             {
                 "range": "7",
                 "data": [
-                    { "title": "Total Sales", "value": "$10,000" },
-                    { "title": "Total Expenses", "value": "$3,000" },
-                    { "title": "Net Profit", "value": "$7,000" },
+                    { "title": "Total Sales", "value": "KSH10,000" },
+                    { "title": "Total Expenses", "value": "KSH3,000" },
+                    { "title": "Net Profit", "value": "KSH7,000" },
                     { "title": "Active Users", "value": "1,500" }
                 ]
             }
