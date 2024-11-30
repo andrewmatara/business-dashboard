@@ -1,0 +1,120 @@
+{
+  "sales": [
+    {
+      "month": "January",
+      "value": 5000
+    },
+    {
+      "month": "February",
+      "value": 4500
+    },
+    {
+      "month": "March",
+      "value": 5200
+    }
+  ],
+  "expenses": [
+    {
+      "month": "January",
+      "value": 3000
+    },
+    {
+      "month": "February",
+      "value": 3200
+    },
+    {
+      "month": "March",
+      "value": 2800
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "transactionId": "78849",
+      "date": "2024-11-01",
+      "amount": 500,
+      "type": "Sale",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "transactionId": "64889",
+      "date": "2024-11-02",
+      "amount": 300,
+      "type": "Expense",
+      "status": "Pending"
+    }
+  ],
+  "regions": [
+    {
+      "name": "North America",
+      "revenue": 15000
+    },
+    {
+      "name": "Europe",
+      "revenue": 12000
+    },
+    {
+      "name": "Asia",
+      "revenue": 10000
+    }
+  ],
+  "categories": [
+    {
+      "name": "Marketing",
+      "value": 2000
+    },
+    {
+      "name": "Operations",
+      "value": 3000
+    },
+    {
+      "name": "HR",
+      "value": 1500
+    }
+  ],
+  "kpis": [
+    {
+      "range": "7",
+      "data": [
+        {
+          "title": "Total Sales",
+          "value": "KSH10,000"
+        },
+        {
+          "title": "Total Expenses",
+          "value": "KSH3,000"
+        },
+        {
+          "title": "Net Profit",
+          "value": "KSH7,000"
+        },
+        {
+          "title": "Active Users",
+          "value": "1,500"
+        }
+      ]
+    },
+    {
+      "range": "30",
+      "data": [
+        {
+          "title": "Total Sales",
+          "value": "KSH40,000"
+        },
+        {
+          "title": "Total Expenses",
+          "value": "KSH12,000"
+        },
+        {
+          "title": "Net Profit",
+          "value": "KSH28,000"
+        },
+        {
+          "title": "Active Users",
+          "value": "2,200"
+        }
+      ]
+    }
+  ]
+}
